@@ -1,7 +1,7 @@
 export default function PageNotFound() {
     return(
-        <main>
-            <div>
+        <main >
+            <div className="text-center">
                 <p className="text-base font-semibold text-indigo-400">404</p>
                 <h1 className="mt-4 text-3xl font-bold tracking-tight
                 text-gray-900 sm:text-5xl">Page not found</h1>
