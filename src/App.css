@@ -6,7 +6,7 @@
 .error-page {
     background-image: url("/public/mountains.jpg");
     background-repeat: no-repeat;
-    filter: sepia(25%);
+    background-position: center;
     background-size: cover;
     
 }
