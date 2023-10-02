@@ -4,8 +4,9 @@
 
 
 .error-page {
-    background-image: url("/public/forest.jpg");
+    background-image: url("/public/mountains.jpg");
     background-repeat: no-repeat;
-    background-size: auto;
+    filter: sepia(25%);
+    background-size: cover;
     
 }

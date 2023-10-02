@@ -2,11 +2,12 @@
 
 export default function PageNotFound() {
     return(
-        <main className="grid min-h-[100vh] place-items-center bg-white px-6
+        <main className="grid min-h-[100vh] place-items-center px-6
         py-24 sm:py-32 lg:px-8  error-page"
     
         >
-            <div className="text-center">
+            <div className="text-center px-24 py-8 bg-teal-600/50 
+            rounded-lg backdrop-blur">
                 <p className="sm:text-2xl font-semibold text-gray-100">404</p>
                 <h1 className="mt-4 text-3xl font-extrabold tracking-tight
                 text-gray-100 sm:text-6xl">Page not found</h1>
