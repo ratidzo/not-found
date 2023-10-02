@@ -23,7 +23,7 @@ export default function PageNotFound() {
                     <a href="#" 
                     className="text-xs sm:text-lg font-semibold text-gray-100
                     rounded-md hover:bg-gray-100/20 hover:backdrop-blur
-                    px-2 py-1 sm:px-3.5 sm:py-2.5">
+                    px-2 py-2.5 sm:px-3.5 ">
                         Contact support <span aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
